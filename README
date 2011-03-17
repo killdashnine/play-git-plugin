@@ -1,0 +1,1 @@
+This is a simple plugin for executing the 'git describe' command and setting it as a configuration property in Play!
